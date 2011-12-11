@@ -1,0 +1,5 @@
+
+
+git config --global user.name "simplersys"
+git config --global user.email simplersys@163.com
+
